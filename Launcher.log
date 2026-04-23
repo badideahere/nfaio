@@ -1,0 +1,18 @@
+[22/4/2026 00:45:46] [INFO] Mod caching directory: ./Resources
+[22/4/2026 00:45:46] [DEBUG] Launcher was invoked as: 'C:\Users\gages\Downloads\BeamMP-Launcher.exe'
+[22/4/2026 00:45:46] [DEBUG] Launcher Version : 2.8.0
+[22/4/2026 00:45:47] [INFO] Launcher version is up to date. Latest version: 2.8.0
+[22/4/2026 00:45:47] [INFO] IMPORTANT: You MUST keep this window open to play BeamMP!
+[22/4/2026 00:45:47] [DEBUG] Successfully parsed BeamNG.Drive.ini
+[22/4/2026 00:45:47] [DEBUG] GameDir from BeamNG.Drive.ini: C:\Program Files (x86)\Steam\steamapps\common\BeamNG.drive\
+[22/4/2026 00:45:47] [DEBUG] HTTP Proxy listening on port 59149
+[22/4/2026 00:45:47] [INFO] Game Version : 0.38.5.0
+[22/4/2026 00:45:47] [DEBUG] Successfully parsed startup.ini
+[22/4/2026 00:45:47] [WARN] Found custom user folder path () in startup.ini but it doesn't exist, skipping
+[22/4/2026 00:45:47] [DEBUG] Successfully parsed BeamNG.Drive.ini
+[22/4/2026 00:45:47] [WARN] Found custom user folder path () in BeamNG.Drive.ini but it doesn't exist, skipping
+[22/4/2026 00:45:47] [INFO] Game user path: C:\Users\gages\AppData\Local\BeamNG\BeamNG.drive\current
+[22/4/2026 00:45:48] [DEBUG] Core Network on start! port: 4444
+[22/4/2026 00:45:48] [DEBUG] BeamNG executable path: C:\Program Files (x86)\Steam\steamapps\common\BeamNG.drive\BeamNG.drive.exe
+[22/4/2026 00:45:48] [INFO] Game Launched!
+[22/4/2026 00:45:50] [ERROR] Game Closed! launcher closing soon
